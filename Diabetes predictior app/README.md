@@ -3,7 +3,7 @@
  If you want to view the deployed model, click on the following link:
 Deployed at: https://diabetispatientpredictor-api.herokuapp.com/
 
-github link: shorturl.at/hL378
+github link: https://github.com/Trtamim/Machine-Learning-Projects/tree/master/Diabetes%20predictior%20app
 
 
 
